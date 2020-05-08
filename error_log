@@ -1,0 +1,70 @@
+[04-Jan-2020 16:13:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ealivery/public_html/ucloudpayment/momo.php on line 39
+[04-Jan-2020 16:24:59 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 16:25:54 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 18:28:15 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 18:28:42 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 18:43:16 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 18:44:43 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 18:57:42 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 18:58:02 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:09:51 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:34:23 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:34:40 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:38:22 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:39:33 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:53:26 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:53:53 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:55:09 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:55:42 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:57:05 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 20:04:08 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 20:04:34 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 20:07:54 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 20:09:03 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[07-Jan-2020 12:57:55 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_NgAlAlBgYCSLtJ) Amount must be at least $0.50 usd
+  thrown in /home/ealivery/public_html/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[07-Jan-2020 13:02:59 UTC] PHP Warning:  A non-numeric value encountered in /home/ealivery/public_html/stripe/charge.php on line 60
+[07-Jan-2020 14:43:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/index.php on line 5
+[07-Jan-2020 14:43:59 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/index.php on line 6
+[07-Jan-2020 15:00:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/index.php on line 5
+[07-Jan-2020 15:00:08 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/index.php on line 6
+[07-Jan-2020 15:38:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/index.php on line 5
+[07-Jan-2020 15:38:43 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/index.php on line 6
+[07-Jan-2020 15:39:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/index.php on line 5
+[07-Jan-2020 15:39:38 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/index.php on line 6
+[07-Jan-2020 15:44:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/index.php on line 5
+[07-Jan-2020 15:44:27 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/index.php on line 6
+[07-Jan-2020 16:04:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/index.php on line 5
+[07-Jan-2020 16:04:34 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/index.php on line 6
+[07-Jan-2020 16:11:51 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:15:05 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:18:17 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:20:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 5
+[07-Jan-2020 16:20:00 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 6
+[07-Jan-2020 16:20:01 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_CI89QO0i0lMhJ8) Missing required param: currency.
+  thrown in /home/ealivery/public_html/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[07-Jan-2020 16:31:03 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:31:28 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:33:42 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ealivery/public_html/stripe/charge.php on line 17
+[07-Jan-2020 16:35:51 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:36:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 5
+[07-Jan-2020 16:36:24 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 6
+[07-Jan-2020 16:36:25 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_tS616PVn9mbha5) Missing required param: currency.
+  thrown in /home/ealivery/public_html/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[07-Jan-2020 16:39:08 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:39:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 5
+[07-Jan-2020 16:39:56 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 6
+[07-Jan-2020 16:39:57 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_t06xbmxLpoK2kr) Missing required param: currency.
+  thrown in /home/ealivery/public_html/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[07-Jan-2020 16:40:08 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:41:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 5
+[07-Jan-2020 16:41:34 UTC] PHP Warning:  session_save_path(): Cannot change save path when headers already sent in /home/ealivery/public_html/stripe/charge.php on line 6
+[07-Jan-2020 16:41:35 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_hX1p4jRr9hqWSb) Missing required param: currency.
+  thrown in /home/ealivery/public_html/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[07-Jan-2020 16:43:58 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 16:45:33 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/charge.php on line 3
+[07-Jan-2020 16:51:19 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/postpayment.php on line 3
+[07-Jan-2020 17:00:56 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 17:06:36 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/index.php on line 4
+[07-Jan-2020 17:07:55 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/charge.php on line 3
+[07-Jan-2020 17:08:19 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/stripe/postpayment.php on line 3
